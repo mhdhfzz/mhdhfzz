@@ -1,7 +1,7 @@
 <h2> Hello, I'm <b>Fiz</b> 👋</h2>
 <img align='left' src="https://github.com/muhammad-hafizz/muhammad-hafizz/blob/main/shadounei_oc_by_aoiogataartist_ddkndth-fullview.jpg" width="140">
 
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextz06&theme=codeSTACKr" width="350"> -->
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hafizz&theme=codeSTACKr" width="350"> -->
 
 [![Github: next](https://img.shields.io/github/followers/nextz06?style=social)](https://github.com/muhammad-hafizz)
 [![Gmail: next](https://img.shields.io/badge/Gmail-Fiz-green?style=social&logo=gmail)](mailto:ciafiz111@gmail.com)
