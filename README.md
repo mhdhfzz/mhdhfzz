@@ -3,9 +3,9 @@
 
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hafizz&theme=codeSTACKr" width="350"> -->
 
-[![Github: next](https://img.shields.io/github/followers/nextz06?style=social)](https://github.com/muhammad-hafizz)
-[![Gmail: next](https://img.shields.io/badge/Gmail-Fiz-green?style=social&logo=gmail)](mailto:ciafiz111@gmail.com)
-[![Telegram: next](https://img.shields.io/badge/Telegram-Fiz-green?style=social&logo=Telegram)](https://t.me/mhafiz_001)
+[![Github: Fiz](https://img.shields.io/github/followers/muhammad-hafizz?style=social)](https://github.com/muhammad-hafizz)
+[![Gmail: Fiz](https://img.shields.io/badge/Gmail-Fiz-green?style=social&logo=gmail)](mailto:ciafiz111@gmail.com)
+[![Telegram: Fiz](https://img.shields.io/badge/Telegram-Fiz-green?style=social&logo=Telegram)](https://t.me/mhafiz_001)
 <br>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=muhammad-hafizz&show_icons=true&theme=codeSTACKr" width="350">
