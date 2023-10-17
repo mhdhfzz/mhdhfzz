@@ -1,14 +1,14 @@
 <h2> Hello, I'm <b>Fiz</b> 👋</h2>
-<img align='left' src="https://github.com/muhammad-hafizz/muhammad-hafizz/blob/main/shadounei_oc_by_aoiogataartist_ddkndth-fullview.jpg" width="140">
+<img align='left' src="https://github.com/mhdhfzz/mhdhfzz/blob/main/shadounei_oc_by_aoiogataartist_ddkndth-fullview.jpg" width="140">
 
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hafizz&theme=codeSTACKr" width="350"> -->
 
-[![Github: Fiz](https://img.shields.io/github/followers/muhammad-hafizz?style=social)](https://github.com/muhammad-hafizz)
+[![Github: Fiz](https://img.shields.io/github/followers/mhdhfzz?style=social)](https://github.com/mhdhfzz)
 [![Gmail: Fiz](https://img.shields.io/badge/Gmail-Fiz-green?style=social&logo=gmail)](mailto:ciafiz111@gmail.com)
 [![Telegram: Fiz](https://img.shields.io/badge/Telegram-Fiz-green?style=social&logo=Telegram)](https://t.me/mhafiz_001)
 <br>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=muhammad-hafizz&show_icons=true&theme=codeSTACKr" width="350">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=mhdhfzz&show_icons=true&theme=codeSTACKr" width="350">
 
 <!--[tema readme stats] -->
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
