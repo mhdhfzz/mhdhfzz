@@ -1,14 +1,16 @@
 <h2> Hello, I'm <b>Fiz</b> 👋</h2>
-<img align='left' src="https://github.com/mhdhfzz/mhdhfzz/blob/main/shadounei_oc_by_aoiogataartist_ddkndth-fullview.jpg" width="140">
+<img align='left' src="https://github.com/mhdhfzz/mhdhfzz/blob/main/shadounei_oc_by_aoiogataartist_ddkndth-fullview.jpg" width="150" >
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mhdhfzz&label=Profile%20views&color=0e75b6&style=flat" alt="mhdhfzz" /> </p>
+<p align="center"> </p>
 
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hafizz&theme=codeSTACKr" width="350"> -->
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdhfzz&show_icons=true&layout=compact&theme=codeSTACKr&hide=html,css" width="400"> 
 
-[![Github: Fiz](https://img.shields.io/github/followers/mhdhfzz?style=social)](https://github.com/mhdhfzz)
-[![Gmail: Fiz](https://img.shields.io/badge/Gmail-Fiz-green?style=social&logo=gmail)](mailto:ciafiz111@gmail.com)
-[![Telegram: Fiz](https://img.shields.io/badge/Telegram-Fiz-green?style=social&logo=Telegram)](https://t.me/mhafiz_001)
+[![LinkedIn: Fiz](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/mhdhfzz)
+[![Telegram: Fiz](https://img.shields.io/badge/Telegram-Fiz-blue?logo=Telegram)](https://t.me/mhafiz_001)
+[![Gmail: Fiz](https://img.shields.io/badge/Email-Me-brightgreen?style=flat&logo=gmail)](mailto:mhdhfz391@gmail.com)
 <br>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=mhdhfzz&show_icons=true&theme=codeSTACKr" width="350">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=mhdhfzz&show_icons=true&theme=codeSTACKr" width="400">
 
 <!--[tema readme stats] -->
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
