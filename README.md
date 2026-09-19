@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mhdhfzz"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://t.me/mhafiz_001"><img src="https://img.shields.io/badge/Telegram-Fiz-blue?logo=Telegram" alt="Telegram"></a>
+  <a href="https://t.me/zifahx"><img src="https://img.shields.io/badge/Telegram-zifahx-blue?logo=Telegram" alt="Telegram"></a>
   <a href="mailto:mhdhfz391@gmail.com"><img src="https://img.shields.io/badge/Email-Me-brightgreen?style=flat&logo=gmail" alt="Email"></a>
 </p>
 
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=mhdhfzz&show_icons=true&theme=codeSTACKr" width="400">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdhfzz&show_icons=true&layout=compact&theme=codeSTACKr&hide=html,css" width="400">
+<!-- <img align='left' src="https://github-readme-stats.vercel.app/api?username=mhdhfzz&show_icons=true&theme=codeSTACKr" width="400">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdhfzz&show_icons=true&layout=compact&theme=codeSTACKr&hide=html,css" width="400"> -->
 <!--[tema readme stats] -->
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
 
